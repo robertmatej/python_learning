@@ -1,6 +1,7 @@
-.idea/
+# My own exclusions
 projects/Notes.md
 1typy_danych
+
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
@@ -8,7 +9,6 @@ projects/Notes.md
 __pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
 
